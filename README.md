@@ -1,2 +1,2 @@
 # PointFlowNet
-Code and dataset coming soon!
+Coming soon!
